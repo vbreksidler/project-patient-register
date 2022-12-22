@@ -4,11 +4,6 @@
  </div>
 
  <br>
- 
-  ------------------------------
-
-  ![GIF do projeto mostrando a funcionalidades](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/a5cfa8a2ce9c8ed6694f2ca6d853493d2ce71e06.gif)
-![GIF do projeto mostrando o serviço AWS](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/Painel%20_%20Amazon%20DynamoDB%20Management%20Console%20-%2022%20December%202022.gif)
 
  ------------------------------
  
@@ -89,3 +84,12 @@ Note: I uploaded the aws-exports.js file knowing it's not a good practice, but i
 		◑ implement especific methods in AWS API Gateway.
 		◑ need getting to know more of AWS authentication(IAM and Cognito).
 -------------------------------
+
+  ![GIF do projeto mostrando a funcionalidades](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/a5cfa8a2ce9c8ed6694f2ca6d853493d2ce71e06.gif)
+  ![GIF do projeto mostrando a funcionalidades2](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/c014a1377e3cf34617288a55b5d2ccdf01686863.gif)
+  ![GIF do projeto mostrando a funcionalidades3](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/6090.gif)
+    ![GIF do projeto mostrando a funcionalidades4](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/60120.gif)
+![GIF do projeto mostrando o serviço AWS](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/Painel%20_%20Amazon%20DynamoDB%20Management%20Console%20-%2022%20December%202022.gif)
+
+-------------------------------
+
