@@ -61,13 +61,6 @@
 			◦ default region name: sa-east-1
 			◦ default output format: json	
 	◕ npm start
-	◕ If you want to log in AWS Console: 
-		◑ https://aws.amazon.com/
-		◑ ID da conta: 395595043401
-		◑ user: admin
-		◑ password: 0l!+8k}G=(||3FA
-		
-Note: I uploaded the aws-exports.js file knowing it's not a good practice, but it's just for the purposes of this challenge.
 
 -------------------------------
 
