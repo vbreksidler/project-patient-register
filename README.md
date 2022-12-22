@@ -7,8 +7,8 @@
  
   ------------------------------
 
-  ![GIF do projeto mostrando a funcionalidade](link)
-![GIF do projeto mostrando o serviço AWS](link)
+  ![GIF do projeto mostrando a funcionalidades](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/a5cfa8a2ce9c8ed6694f2ca6d853493d2ce71e06.gif)
+![GIF do projeto mostrando o serviço AWS](https://raw.githubusercontent.com/vbreksidler/project-patient-register/master/patient-register/public/Painel%20_%20Amazon%20DynamoDB%20Management%20Console%20-%2022%20December%202022.gif)
 
  ------------------------------
  
