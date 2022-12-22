@@ -6,6 +6,11 @@
  <br>
  
   ------------------------------
+
+  ![GIF do projeto mostrando a funcionalidade](link)
+![GIF do projeto mostrando o serviço AWS](link)
+
+ ------------------------------
  
 ● Tech:
 
